@@ -1,0 +1,20 @@
+{
+  "name": "hellop5js",
+  "version": "0.0.1",
+  "authors": [
+    "vispalberlin <j.vispal@me.com>"
+  ],
+  "description": "Something",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "p5js": "~0.3.11"
+  }
+}
